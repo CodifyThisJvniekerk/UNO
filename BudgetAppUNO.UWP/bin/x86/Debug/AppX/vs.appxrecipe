@@ -1,0 +1,424 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JOHANVA</Machine>
+    <WindowsUser>bbdnet1522</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>bd865afb-087d-4252-981f-4c284d73ecbc</PackageIdentityName>
+    <PackageIdentityPublisher>CN=bbdnet1522</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>C28894913FF092FAD3EFF14C56C95C123A9D1206BF4D147A78A1267F47DB78DF</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8042cd8a-ee1f-46c5-ac7b-69eceb4cc062_1.0.0.0_x86__wbwmj7t1prxsm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8042cd8a-ee1f-46c5-ac7b-69eceb4cc062_wbwmj7t1prxsm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8042cd8a-ee1f-46c5-ac7b-69eceb4cc062</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=bbdnet1522</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-15T04:53:51.742</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.UWP\bin\x86\Debug\BudgetAppUNO.exe">
+      <PackagePath>entrypoint\BudgetAppUNO.exe</PackagePath>
+      <Modified>2021-04-15T04:53:51.106</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\commonservicelocator\2.0.5\lib\netstandard2.0\CommonServiceLocator.dll">
+      <PackagePath>CommonServiceLocator.dll</PackagePath>
+      <Modified>2019-11-07T00:33:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\dynamicdata\7.1.1\lib\uap10.0.16299\DynamicData.dll">
+      <PackagePath>DynamicData.dll</PackagePath>
+      <Modified>2020-11-26T06:46:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.bcl.asyncinterfaces\5.0.0\lib\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll">
+      <PackagePath>Microsoft.Bcl.AsyncInterfaces.dll</PackagePath>
+      <Modified>2020-10-19T16:40:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.extensions.configuration\5.0.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.dll">
+      <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
+      <Modified>2020-10-19T16:48:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.extensions.configuration.abstractions\5.0.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.Configuration.Abstractions.dll</PackagePath>
+      <Modified>2020-10-19T16:48:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.extensions.configuration.binder\5.0.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.Binder.dll">
+      <PackagePath>Microsoft.Extensions.Configuration.Binder.dll</PackagePath>
+      <Modified>2020-10-19T16:48:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.extensions.configuration.commandline\5.0.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.CommandLine.dll">
+      <PackagePath>Microsoft.Extensions.Configuration.CommandLine.dll</PackagePath>
+      <Modified>2020-10-19T16:49:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.extensions.configuration.environmentvariables\5.0.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll">
+      <PackagePath>Microsoft.Extensions.Configuration.EnvironmentVariables.dll</PackagePath>
+      <Modified>2020-10-19T16:49:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.extensions.configuration.fileextensions\5.0.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.FileExtensions.dll">
+      <PackagePath>Microsoft.Extensions.Configuration.FileExtensions.dll</PackagePath>
+      <Modified>2020-10-19T16:50:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.extensions.configuration.json\5.0.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.Json.dll">
+      <PackagePath>Microsoft.Extensions.Configuration.Json.dll</PackagePath>
+      <Modified>2020-10-19T16:52:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.extensions.configuration.usersecrets\5.0.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.UserSecrets.dll">
+      <PackagePath>Microsoft.Extensions.Configuration.UserSecrets.dll</PackagePath>
+      <Modified>2020-10-19T16:52:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.extensions.dependencyinjection\5.0.0\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll">
+      <PackagePath>Microsoft.Extensions.DependencyInjection.dll</PackagePath>
+      <Modified>2020-10-19T16:48:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\5.0.0\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.DependencyInjection.Abstractions.dll</PackagePath>
+      <Modified>2020-10-19T16:48:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.extensions.fileproviders.abstractions\5.0.0\lib\netstandard2.0\Microsoft.Extensions.FileProviders.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.FileProviders.Abstractions.dll</PackagePath>
+      <Modified>2020-10-19T16:48:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.extensions.fileproviders.physical\5.0.0\lib\netstandard2.0\Microsoft.Extensions.FileProviders.Physical.dll">
+      <PackagePath>Microsoft.Extensions.FileProviders.Physical.dll</PackagePath>
+      <Modified>2020-10-19T16:49:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.extensions.filesystemglobbing\5.0.0\lib\netstandard2.0\Microsoft.Extensions.FileSystemGlobbing.dll">
+      <PackagePath>Microsoft.Extensions.FileSystemGlobbing.dll</PackagePath>
+      <Modified>2020-10-19T16:48:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.extensions.hosting\5.0.0\lib\netstandard2.0\Microsoft.Extensions.Hosting.dll">
+      <PackagePath>Microsoft.Extensions.Hosting.dll</PackagePath>
+      <Modified>2020-10-19T16:53:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.extensions.hosting.abstractions\5.0.0\lib\netstandard2.0\Microsoft.Extensions.Hosting.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.Hosting.Abstractions.dll</PackagePath>
+      <Modified>2020-10-19T16:49:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.extensions.logging\5.0.0\lib\netstandard2.0\Microsoft.Extensions.Logging.dll">
+      <PackagePath>Microsoft.Extensions.Logging.dll</PackagePath>
+      <Modified>2020-10-19T16:49:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.extensions.logging.abstractions\5.0.0\lib\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.Logging.Abstractions.dll</PackagePath>
+      <Modified>2020-10-19T16:48:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.extensions.logging.configuration\5.0.0\lib\netstandard2.0\Microsoft.Extensions.Logging.Configuration.dll">
+      <PackagePath>Microsoft.Extensions.Logging.Configuration.dll</PackagePath>
+      <Modified>2020-10-19T16:50:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.extensions.logging.console\5.0.0\lib\netstandard2.0\Microsoft.Extensions.Logging.Console.dll">
+      <PackagePath>Microsoft.Extensions.Logging.Console.dll</PackagePath>
+      <Modified>2020-10-19T16:52:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.extensions.logging.debug\5.0.0\lib\netstandard2.0\Microsoft.Extensions.Logging.Debug.dll">
+      <PackagePath>Microsoft.Extensions.Logging.Debug.dll</PackagePath>
+      <Modified>2020-10-19T16:49:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.extensions.logging.eventlog\5.0.0\lib\netstandard2.0\Microsoft.Extensions.Logging.EventLog.dll">
+      <PackagePath>Microsoft.Extensions.Logging.EventLog.dll</PackagePath>
+      <Modified>2020-10-19T16:49:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.extensions.logging.eventsource\5.0.0\lib\netstandard2.0\Microsoft.Extensions.Logging.EventSource.dll">
+      <PackagePath>Microsoft.Extensions.Logging.EventSource.dll</PackagePath>
+      <Modified>2020-10-19T16:49:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.extensions.options\5.0.0\lib\netstandard2.0\Microsoft.Extensions.Options.dll">
+      <PackagePath>Microsoft.Extensions.Options.dll</PackagePath>
+      <Modified>2020-10-19T16:48:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.extensions.options.configurationextensions\5.0.0\lib\netstandard2.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll">
+      <PackagePath>Microsoft.Extensions.Options.ConfigurationExtensions.dll</PackagePath>
+      <Modified>2020-10-19T16:49:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.extensions.primitives\5.0.0\lib\netstandard2.0\Microsoft.Extensions.Primitives.dll">
+      <PackagePath>Microsoft.Extensions.Primitives.dll</PackagePath>
+      <Modified>2020-10-19T16:48:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\reactiveui\13.2.18\lib\uap10.0.16299\ReactiveUI.dll">
+      <PackagePath>ReactiveUI.dll</PackagePath>
+      <Modified>2021-04-08T05:28:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\reactiveui.uno\13.2.18\lib\uap10.0.16299\ReactiveUI.Uno.dll">
+      <PackagePath>ReactiveUI.Uno.dll</PackagePath>
+      <Modified>2021-04-08T05:29:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.11\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2020-11-20T07:09:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\splat\11.0.1\lib\netstandard2.0\Splat.dll">
+      <PackagePath>Splat.dll</PackagePath>
+      <Modified>2021-04-06T05:17:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\splat.microsoft.extensions.logging\11.0.1\lib\netstandard2.0\Splat.Microsoft.Extensions.Logging.dll">
+      <PackagePath>Splat.Microsoft.Extensions.Logging.dll</PackagePath>
+      <Modified>2021-04-06T05:18:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\system.collections.immutable\5.0.0\lib\netstandard2.0\System.Collections.Immutable.dll">
+      <PackagePath>System.Collections.Immutable.dll</PackagePath>
+      <Modified>2020-10-19T16:37:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\system.diagnostics.diagnosticsource\5.0.0\lib\netstandard1.3\System.Diagnostics.DiagnosticSource.dll">
+      <PackagePath>System.Diagnostics.DiagnosticSource.dll</PackagePath>
+      <Modified>2020-10-19T16:38:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\system.diagnostics.eventlog\5.0.0\lib\netstandard2.0\System.Diagnostics.EventLog.dll">
+      <PackagePath>System.Diagnostics.EventLog.dll</PackagePath>
+      <Modified>2020-10-19T16:48:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\system.reactive\5.0.0\lib\uap10.0.16299\System.Reactive.dll">
+      <PackagePath>System.Reactive.dll</PackagePath>
+      <Modified>2020-11-10T14:22:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\system.runtime.compilerservices.unsafe\5.0.0\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll">
+      <PackagePath>System.Runtime.CompilerServices.Unsafe.dll</PackagePath>
+      <Modified>2020-10-19T16:46:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\system.text.encodings.web\5.0.0\lib\netstandard2.0\System.Text.Encodings.Web.dll">
+      <PackagePath>System.Text.Encodings.Web.dll</PackagePath>
+      <Modified>2020-10-19T16:40:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\system.text.json\5.0.0\lib\netstandard2.0\System.Text.Json.dll">
+      <PackagePath>System.Text.Json.dll</PackagePath>
+      <Modified>2020-10-19T16:42:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\uno.core\2.3.0\lib\uap10.0.15063\Uno.Core.dll">
+      <PackagePath>Uno.Core.dll</PackagePath>
+      <Modified>2021-03-18T17:41:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\uno.diagnostics.eventing\1.0.4\lib\netstandard2.0\Uno.Diagnostics.Eventing.dll">
+      <PackagePath>Uno.Diagnostics.Eventing.dll</PackagePath>
+      <Modified>2020-07-12T17:57:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\uno.ui\3.6.6\lib\UAP\Uno.UI.Toolkit.dll">
+      <PackagePath>Uno.UI.Toolkit.dll</PackagePath>
+      <Modified>2021-03-29T18:29:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.18362.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+      <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+      <Modified>2019-03-18T16:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\uno.ui\3.6.6\lib\UAP\Uno.UI.Toolkit\Uno.UI.Toolkit.xr.xml">
+      <PackagePath>Uno.UI.Toolkit\Uno.UI.Toolkit.xr.xml</PackagePath>
+      <Modified>2021-03-29T18:09:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.UWP\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2021-03-30T07:05:15.940</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.UWP\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-30T07:05:15.941</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.UWP\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-30T07:05:15.942</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.UWP\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-30T07:05:15.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.UWP\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-30T07:05:15.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.UWP\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-30T07:05:15.944</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.UWP\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2021-03-30T07:05:15.947</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.UWP\bin\x86\Debug\BudgetAppUNO.xr.xml">
+      <PackagePath>BudgetAppUNO.xr.xml</PackagePath>
+      <Modified>2021-04-15T04:53:11.202</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.UWP\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2021-04-15T04:53:51.022</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.UWP\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2021-04-15T04:53:51.022</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.18362.0\\redist\Debug\x86\ucrtbased.dll">
+      <PackagePath>ucrtbased.dll</PackagePath>
+      <Modified>2019-03-18T16:43:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2019-03-18T15:33:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\lib\uap10.0\Microsoft.UI.Xaml.winmd">
+      <PackagePath>WinMetadata\Microsoft.UI.Xaml.winmd</PackagePath>
+      <Modified>2020-12-03T07:46:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.UWP\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2021-04-15T04:53:12.105</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.UWP\bin\x86\Debug\Core\BudgetAppUNO.exe">
+      <PackagePath>BudgetAppUNO.exe</PackagePath>
+      <Modified>2021-04-15T04:53:51.739</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.5.appx">
+      <Name>Microsoft.UI.Xaml.2.5</Name>
+      <Version>2.52012.2002.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.5, MinVersion = 2.52012.2002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\bbdnet1522\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.5.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.5.appx">
+      <Name>Microsoft.UI.Xaml.2.5</Name>
+      <Version>2.52012.2002.0</Version>
+      <Architecture>Win32</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.5, MinVersion = 2.52012.2002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\bbdnet1522\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.5.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.5.appx">
+      <Name>Microsoft.UI.Xaml.2.5</Name>
+      <Version>2.52012.2002.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.5, MinVersion = 2.52012.2002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\bbdnet1522\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.5.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.5.appx">
+      <Name>Microsoft.UI.Xaml.2.5</Name>
+      <Version>2.52012.2002.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.5, MinVersion = 2.52012.2002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\bbdnet1522\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.5.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\bbdnet1522\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.5.appx">
+      <Name>Microsoft.UI.Xaml.2.5</Name>
+      <Version>2.52012.2002.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.5, MinVersion = 2.52012.2002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\bbdnet1522\.nuget\packages\microsoft.ui.xaml\2.5.0\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.5.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\bbdnet1522\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.11\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\bbdnet1522\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.11\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\bbdnet1522\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.11\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\bbdnet1522\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.11\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\bbdnet1522\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.11\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\bbdnet1522\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.11\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\bbdnet1522\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.11\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.29301.2</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.29301.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\bbdnet1522\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.11\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\bbdnet1522\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.11\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.29301.2</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.29301.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\bbdnet1522\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.11\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\bbdnet1522\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.11\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.29301.2</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.29301.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\bbdnet1522\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.11\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.29231.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.29231.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.29231.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.29231.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

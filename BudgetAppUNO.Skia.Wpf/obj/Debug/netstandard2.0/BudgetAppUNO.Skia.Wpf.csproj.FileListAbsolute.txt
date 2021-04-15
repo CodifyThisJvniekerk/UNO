@@ -1,0 +1,17 @@
+C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.Skia.Wpf\bin\Debug\netstandard2.0\BudgetAppUNO.Skia.Wpf.deps.json
+C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.Skia.Wpf\bin\Debug\netstandard2.0\BudgetAppUNO.Skia.Wpf.dll
+C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.Skia.Wpf\bin\Debug\netstandard2.0\BudgetAppUNO.Skia.Wpf.pdb
+C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.Skia.Wpf\bin\Debug\netstandard2.0\Uno.Foundation.pdb
+C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.Skia.Wpf\bin\Debug\netstandard2.0\Uno.pdb
+C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.Skia.Wpf\bin\Debug\netstandard2.0\Uno.UI.FluentTheme.pdb
+C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.Skia.Wpf\bin\Debug\netstandard2.0\Uno.UI.pdb
+C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.Skia.Wpf\bin\Debug\netstandard2.0\Uno.UI.Toolkit.pdb
+C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.Skia.Wpf\bin\Debug\netstandard2.0\Uno.Xaml.pdb
+C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.Skia.Wpf\bin\Debug\netstandard2.0\Uno.UI.RemoteControl.pdb
+C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.Skia.Wpf\obj\Debug\netstandard2.0\BudgetAppUNO.Skia.Wpf.AssemblyInfoInputs.cache
+C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.Skia.Wpf\obj\Debug\netstandard2.0\BudgetAppUNO.Skia.Wpf.AssemblyInfo.cs
+C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.Skia.Wpf\obj\Debug\netstandard2.0\BudgetAppUNO.Skia.Wpf.csproj.CoreCompileInputs.cache
+C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.Skia.Wpf\obj\Debug\netstandard2.0\BudgetAppUNO.Skia.Wpf.csproj.CopyComplete
+C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.Skia.Wpf\obj\Debug\netstandard2.0\BudgetAppUNO.Skia.Wpf.dll
+C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.Skia.Wpf\obj\Debug\netstandard2.0\BudgetAppUNO.Skia.Wpf.pdb
+C:\Users\bbdnet1522\source\repos\BudgetAppUNO\BudgetAppUNO.Skia.Wpf\obj\Debug\netstandard2.0\BudgetAppUNO.Skia.Wpf.csprojAssemblyReference.cache
